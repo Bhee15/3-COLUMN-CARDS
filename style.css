@@ -108,7 +108,7 @@ background-color: var(--dark-cyan);
 #card-3{
     background-color: var(--very-dark-cyan);
     border-top-right-radius: 6px;
-    border-bottom-right-radius: 6px;
+    border-bottom-right-radius: 5px;
     }
 
 #card-3 button{
